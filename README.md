@@ -3,11 +3,11 @@ sde
 
 SDE for windows
 
-Goals:
-  Install application with default setting and never changed it.
-  Create application profile via CLI.
-  Run application based on it's profile.
-  Dos toolbox. 
+Goals:<br>
+  &nbsp;&nbsp;Install application with default setting and never changed it.<br>
+  &nbsp;&nbsp;Create application profile via CLI.<br>
+  &nbsp;&nbsp;Run application based on it's profile.<br>
+  &nbsp;&nbsp;Dos toolbox. <br>
   
 Support applications:
   1. Apache
