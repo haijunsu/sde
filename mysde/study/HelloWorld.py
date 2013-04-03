@@ -1,1 +1,1 @@
-'''Created on 2013-4-2@author: suhaijun'''if __name__ == '__main__':    pass
+'''Created on 2013-4-2@author: suhaijun'''if __name__ == '__main__':    print 'Hello World!'
